@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Banking accounts related prod APIs "
   contactDetails:
     name: "Vibhushit Singhal - Product Owner"
-    email: "NA"
+    email: "{cipher}58624ee78aeacd22bfec69e633c5405ee5f35d40a02372ad65b2151bc78921b1e344791ac54c6458e85545d8f69d0722"
   onCallSupport:
     - "NA"
     - "NA1"

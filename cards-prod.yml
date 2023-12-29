@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Banking cards related prod APIs "
+  message: "Hey, Welcome to Banking cards related production APIs "
   contactDetails:
     name: "Vibhushit Singhal - Product Owner"
     email: "NA"

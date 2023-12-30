@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, Welcome to Banking accounts related prod APIs "
+  message: "Hey, Welcome to Banking accounts related production APIs "
   contactDetails:
     name: "Vibhushit Singhal - Product Owner"
     email: "{cipher}02c592fe8fe6ee3f6e57b96c5e4a99b9b0a9e7ed540ac45b2929a451e2e51917"
